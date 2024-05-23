@@ -1,0 +1,7 @@
+bs4
+flask
+request
+jason
+response
+boto3
+re
